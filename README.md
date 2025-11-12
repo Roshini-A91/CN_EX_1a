@@ -1,5 +1,8 @@
 # Ex.No:1a Study of Socket Programming
 
+## Developed by : ROSHINI A
+## Reg No : 212224230233
+
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
